@@ -16,6 +16,18 @@ const defaultData = {
       {
         name: 'udacity',
         path: 'udacity'
+      },
+      {
+        name: 'nodejs',
+        path: 'nodejs'
+      },
+      {
+        name: 'socketio',
+        path: 'socketio'
+      },
+      {
+        name: 'messaging',
+        path: 'messaging'
       }
   ]
 }
